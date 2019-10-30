@@ -1,0 +1,23 @@
+form{background-color: #BB8FCE;
+	width: 50%;
+	position: center-left;
+	margin:auto;}
+
+body{background-color: #A0522D;
+}
+
+font{font-size:20px;
+	color:white;}
+h1{font-family:Book Antiqua;}
+
+a{font-weight:bold;
+		text-decoration:none;
+			font-size:16px;}
+	a:visited{color:black;}
+	td:hover{background-color:BBA29D;}
+	a:active {color: yellow;
+				background-color: transparent;
+	text-decoration: underline;}
+
+
+

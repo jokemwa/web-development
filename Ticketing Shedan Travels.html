@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<title>Shedan Travels Agency</title>
+<head>
+<link rel="stylesheet" href="Shedan Travels Formstyle.css" type="text/css">
+<img src="shedantravels.png">
+<table  width=50% border="3" cellspacing="5" cellpadding= "10" align="right" valign="top" frame="rhs" rules="cols">
+<tr>
+<td><a href="Shedan Travels Agency.html" >Home</a></td>
+	<td><a href="About Shedan Travels.html" >About </a></td>
+	<td><a href="Shedan Travels Contacts.html" >Contacts</a></td>
+</tr>
+</table><br><br>
+<h1><center><b><font face="Comic Sans MS">To book your ticket, please fill in the form below. 
+Take note of the days and the departure times.
+</font></b></center></h1><hr>
+</head>
+<body>
+
+
+<form name="Customer Details" width=50% method="post" action="Shedan Travels Connect.php">
+
+<fieldset>
+	<legend><b>Personal Details</b></legend>
+	First Name: <input type="text" name="FirstName" required>
+	Last Name: <input type="text" name="LastName" required><br><br>
+	Email Address: <input type="text" name="email" pattern="[a-zA-Z]{3,}@[a-zA-Z]{3,}[.][a-zA-Z]{2,}">
+	Phone Number: <input type="tel" name="number" required pattern="[0-9]{4,}[0-9]{6}"><br><br>
+
+</fieldset>
+
+<fieldset>
+	<legend><b>Ticketing Details</b></legend>
+	<select>
+		<option>From</option>
+		<option value="Nairobi">Nairobi</option>
+		<option value="Mombasa">Mombasa</option>
+		<option value="Kisumu">Kisumu</option>
+		<option value="Eldoret">Eldoret</option>
+		
+	</select>
+	<select>
+		<option>To</option>
+		<option value="Nairobi">Nairobi</option>
+		<option value="Mombasa">Mombasa</option>
+		<option value="Kisumu">Kisumu</option>
+		<option value="Eldoret">Eldoret</option>
+	</select>
+	
+	<select>
+		<option>Preferred Airline</option>
+		<option value="American Airline">KQ Airline</option>
+		<option value="Delta Airlines">Silverstone Airlines</option>
+		<option value="Frontier Airline">Jambo Jet Airline</option>
+		
+	</select>
+	<select>
+		<option>Preferred Seating</option>
+		<option value="Window">Window</option>
+		<option value="Aisle">Aisle</option>
+		<option value="Special">Special (Request note below)</option>
+	</select><br><br>
+	
+	Departure Date: <input type="date" name="date" min="2017-11-20"required>
+	
+	Departure Time: <input type="time" name="time" min="00:00:00"required><br><br>
+
+	<select>
+		<option>Passenger age</option>
+		<option value="">Adult(12+ Yrs)</option>
+		<option value="">Children(2-11 Yrs)</option>
+		<option value="">Infant(under 2Yrs)</option>
+	</select><br><br>
+
+<hr>
+	Request Note<br>
+	<textarea rows="10" cols="45"></textarea><br><br>
+	<input type="submit" value="Book a seat">
+	<input type="reset" value="Cancel">
+</fieldset>
+</form>
+
+<p style="font-size:15px; font-weight:bold">
+
+EMAIL: <a href="shedan.travels@gmail.com">shedan.travels@gmail.com</a><br> 
+<a href="https://www.twitter.com/" target="_blank"><img src="twitter1.png" ></a> 
+<a href="https://www.facebook.com/" target="_blank"><img src="facebook1.png"></a>
+<a href="https://www.instagram.com/" target="_blank"><img src="instagram1.jpg"></a>
+<a href="https://www.snapchat.com/" target="_blank"><img src="snapchat1.png"></a>
+<a href="https://www.linkedin.com/" target="_blank"><img src="linkedin1.png"></a><br> 
+<br>
+ 
+<p><center>&copy; 2018 Shedan Travels Agency<p></center>
+</body>
+</html>
+
+<!--form action and method -->
