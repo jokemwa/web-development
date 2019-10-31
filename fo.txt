@@ -1,0 +1,215 @@
+<html>
+<head><meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<style type="text/css">
+<!--
+span.cls_003{font-family:Arial,serif;font-size:12.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_003{font-family:Arial,serif;font-size:12.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_004{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_004{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_002{font-family:Arial,serif;font-size:14.2px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_002{font-family:Arial,serif;font-size:14.2px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_005{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_005{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_007{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_007{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_010{font-family:Arial,serif;font-size:6.0px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_010{font-family:Arial,serif;font-size:6.0px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_008{font-family:Arial,serif;font-size:7.0px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_008{font-family:Arial,serif;font-size:7.0px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_009{font-family:Times,serif;font-size:10.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_009{font-family:Times,serif;font-size:10.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_011{font-family:Arial,serif;font-size:8.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_011{font-family:Arial,serif;font-size:8.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_012{font-family:Arial,serif;font-size:8.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_012{font-family:Arial,serif;font-size:8.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_013{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:normal;font-style:italic;text-decoration: none}
+div.cls_013{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:normal;font-style:italic;text-decoration: none}
+span.cls_014{font-family:Arial,serif;font-size:6.0px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_014{font-family:Arial,serif;font-size:6.0px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_015{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_015{font-family:Arial,serif;font-size:9.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_016{font-family:Times,serif;font-size:10.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_016{font-family:Times,serif;font-size:10.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_017{font-family:Arial,serif;font-size:9.6px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_017{font-family:Arial,serif;font-size:9.6px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_018{font-family:Arial,serif;font-size:11.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+div.cls_018{font-family:Arial,serif;font-size:11.1px;color:rgb(43,42,41);font-weight:bold;font-style:normal;text-decoration: none}
+span.cls_019{font-family:Arial,serif;font-size:11.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_019{font-family:Arial,serif;font-size:11.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_020{font-family:Times,serif;font-size:12.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_020{font-family:Times,serif;font-size:12.1px;color:rgb(43,42,41);font-weight:normal;font-style:normal;text-decoration: none}
+-->
+</style>
+<script type="text/javascript" src="0253d3fa-fa50-11e9-9d71-0cc47a792c0a_id_0253d3fa-fa50-11e9-9d71-0cc47a792c0a_files/wz_jsgraphics.js"></script>
+</head>
+<body>
+<div style="position:absolute;left:50%;margin-left:-297px;top:0px;width:595px;height:841px;border-style:outset;overflow:hidden">
+<div style="position:absolute;left:0px;top:0px">
+<img src="0253d3fa-fa50-11e9-9d71-0cc47a792c0a_id_0253d3fa-fa50-11e9-9d71-0cc47a792c0a_files/background1.jpg" width=595 height=841></div>
+<div style="position:absolute;left:491.42px;top:11.85px" class="cls_003"><span class="cls_003">KAS/FM/FIN/001</span></div>
+<div style="position:absolute;left:428.47px;top:54.06px" class="cls_004"><span class="cls_004">Registration number allocated</span></div>
+<div style="position:absolute;left:36.00px;top:61.44px" class="cls_002"><span class="cls_002">APPLICATION FOR</span></div>
+<div style="position:absolute;left:36.00px;top:78.41px" class="cls_002"><span class="cls_002">REGISTRATION FORM</span></div>
+<div style="position:absolute;left:36.00px;top:105.27px" class="cls_005"><span class="cls_005">Before filling in this form, please read it carefully in conjunction with the notes at the back of this form and in the examinations brochure.</span></div>
+<div style="position:absolute;left:36.00px;top:128.30px" class="cls_007"><span class="cls_007">PROFESSIONAL EXAMINATIONS:</span><span class="cls_005"> CPA</span></div>
+<div style="position:absolute;left:233.69px;top:128.30px" class="cls_005"><span class="cls_005">CS</span></div>
+<div style="position:absolute;left:288.00px;top:128.30px" class="cls_005"><span class="cls_005">CICT</span></div>
+<div style="position:absolute;left:336.64px;top:128.30px" class="cls_005"><span class="cls_005">CIFA</span></div>
+<div style="position:absolute;left:392.85px;top:128.30px" class="cls_005"><span class="cls_005">CCP</span></div>
+<div style="position:absolute;left:447.16px;top:128.30px" class="cls_005"><span class="cls_005">FAQ</span></div>
+<div style="position:absolute;left:504.00px;top:128.30px" class="cls_005"><span class="cls_005">FSQ</span></div>
+<div style="position:absolute;left:36.00px;top:150.12px" class="cls_007"><span class="cls_007">DIPLOMA EXAMINATIONS:</span></div>
+<div style="position:absolute;left:184.55px;top:150.12px" class="cls_005"><span class="cls_005">ATD</span></div>
+<div style="position:absolute;left:233.68px;top:150.12px" class="cls_005"><span class="cls_005">DICT</span></div>
+<div style="position:absolute;left:288.00px;top:150.12px" class="cls_005"><span class="cls_005">DCM</span></div>
+<div style="position:absolute;left:265.08px;top:169.80px" class="cls_010"><span class="cls_010">(Please tick as appropriate)</span></div>
+<div style="position:absolute;left:36.00px;top:182.84px" class="cls_005"><span class="cls_005">1.</span><span class="cls_007">  Personal details</span></div>
+<div style="position:absolute;left:46.11px;top:193.75px" class="cls_007"><span class="cls_007">(a) Name</span></div>
+<div style="position:absolute;left:47.49px;top:233.76px" class="cls_008"><span class="cls_008">Write the name as it appears on the National Identity card/Passport/Birth certificate and attach a copy. In case of change of name, attach the relevant documents</span></div>
+<div style="position:absolute;left:46.10px;top:243.44px" class="cls_007"><span class="cls_007">(See notes 1 and 2)</span></div>
+<div style="position:absolute;left:48.64px;top:261.62px" class="cls_007"><span class="cls_007">(b) Nationality</span></div>
+<div style="position:absolute;left:238.73px;top:261.62px" class="cls_007"><span class="cls_007">(c) Date of birth</span></div>
+<div style="position:absolute;left:401.05px;top:261.62px" class="cls_007"><span class="cls_007">(d) Gender</span></div>
+<div style="position:absolute;left:468.00px;top:261.62px" class="cls_005"><span class="cls_005">M</span></div>
+<div style="position:absolute;left:500.83px;top:261.62px" class="cls_005"><span class="cls_005">F</span></div>
+<div style="position:absolute;left:317.34px;top:272.53px" class="cls_005"><span class="cls_005">Day   Month   Year</span></div>
+<div style="position:absolute;left:49.13px;top:297.58px" class="cls_007"><span class="cls_007">(e) Contacts: </span><span class="cls_005">Email</span></div>
+<div style="position:absolute;left:324.00px;top:297.58px" class="cls_005"><span class="cls_005">Cellphone</span></div>
+<div style="position:absolute;left:61.77px;top:327.88px" class="cls_005"><span class="cls_005">C/o</span></div>
+<div style="position:absolute;left:288.00px;top:327.88px" class="cls_005"><span class="cls_005">P.O. Box</span></div>
+<div style="position:absolute;left:468.00px;top:327.88px" class="cls_005"><span class="cls_005">Code</span></div>
+<div style="position:absolute;left:61.60px;top:354.95px" class="cls_005"><span class="cls_005">Town/City</span></div>
+<div style="position:absolute;left:288.00px;top:354.95px" class="cls_005"><span class="cls_005">Country</span></div>
+<div style="position:absolute;left:36.00px;top:376.94px" class="cls_005"><span class="cls_005">2.</span><span class="cls_007"> </span><span class="cls_005"> Have you ever registered as a student of </span><span class="cls_009">kasneb</span><span class="cls_005">?  Yes</span></div>
+<div style="position:absolute;left:298.11px;top:377.85px" class="cls_005"><span class="cls_005">No</span></div>
+<div style="position:absolute;left:335.00px;top:377.85px" class="cls_005"><span class="cls_005">If yes, please indicate your Registration No.</span></div>
+<div style="position:absolute;left:36.00px;top:399.67px" class="cls_005"><span class="cls_005">3. </span><span class="cls_007">Highest level of education</span><span class="cls_005"> (High school/Diploma/Degree/Masters/Phd/Profesional)</span></div>
+<div style="position:absolute;left:47.97px;top:429.67px" class="cls_010"><span class="cls_010">(</span><span class="cls_011">Attach certified copies of certificates including for high school as per note 3</span><span class="cls_010">)</span></div>
+<div style="position:absolute;left:36.00px;top:449.66px" class="cls_005"><span class="cls_005">4</span><span class="cls_007">. </span><span class="cls_005">How did you learn about </span><span class="cls_009">kasneb</span><span class="cls_005">?</span></div>
+<div style="position:absolute;left:216.00px;top:450.57px" class="cls_005"><span class="cls_005">Career Talks</span></div>
+<div style="position:absolute;left:323.99px;top:450.57px" class="cls_005"><span class="cls_005">Media</span></div>
+<div style="position:absolute;left:396.00px;top:450.57px" class="cls_005"><span class="cls_005">Student</span></div>
+<div style="position:absolute;left:480.63px;top:450.57px" class="cls_005"><span class="cls_005">Sponsor</span></div>
+<div style="position:absolute;left:36.00px;top:468.75px" class="cls_005"><span class="cls_005">Guardian</span></div>
+<div style="position:absolute;left:108.00px;top:468.75px" class="cls_005"><span class="cls_005">Parent</span></div>
+<div style="position:absolute;left:179.99px;top:468.75px" class="cls_005"><span class="cls_005">Friend</span></div>
+<div style="position:absolute;left:252.00px;top:468.75px" class="cls_005"><span class="cls_005">Others</span></div>
+<div style="position:absolute;left:346.97px;top:476.95px" class="cls_012"><span class="cls_012">(</span><span class="cls_011">Specify)</span></div>
+<div style="position:absolute;left:36.00px;top:490.57px" class="cls_005"><span class="cls_005">5</span><span class="cls_007">. Payment details</span></div>
+<div style="position:absolute;left:46.10px;top:501.48px" class="cls_005"><span class="cls_005">I enclose cash/cheque/money order/KASNEB fee deposit slip No.</span></div>
+<div style="position:absolute;left:417.99px;top:501.48px" class="cls_005"><span class="cls_005">for Sh.</span></div>
+<div style="position:absolute;left:46.11px;top:523.48px" class="cls_007"><span class="cls_007">NB: </span><span class="cls_013">This form shall be retained by the bank if payment is made through the bank. The bank will forward the form to </span><span class="cls_009">kasneb</span></div>
+<div style="position:absolute;left:36.00px;top:546.20px" class="cls_005"><span class="cls_005">6. Are you attending tuition in a training institution? Yes</span></div>
+<div style="position:absolute;left:300.64px;top:546.20px" class="cls_005"><span class="cls_005">No</span></div>
+<div style="position:absolute;left:268.23px;top:556.94px" class="cls_014"><span class="cls_014">(</span><span class="cls_011">See note 5)</span></div>
+<div style="position:absolute;left:46.10px;top:568.02px" class="cls_005"><span class="cls_005">If yes, please indicate the name of the institution</span></div>
+<div style="position:absolute;left:36.00px;top:611.65px" class="cls_005"><span class="cls_005">7.</span><span class="cls_007"> Declaration by the applicant</span></div>
+<div style="position:absolute;left:49.13px;top:633.56px" class="cls_015"><span class="cls_015">I hereby certify that to the best of my knowledge all the information I have provided on this form and all supporting documents are true</span></div>
+<div style="position:absolute;left:49.13px;top:644.56px" class="cls_015"><span class="cls_015">and correct and l agree to abide by the Examination Rules and Regulations and Code of Conduct and Ethics for </span><span class="cls_009">kasneb</span><span class="cls_015"> students.</span></div>
+<div style="position:absolute;left:49.13px;top:656.56px" class="cls_004"><span class="cls_004">Note: The Code of Conduct and Ethics for </span><span class="cls_016">kasneb</span><span class="cls_004"> students is available on the </span><span class="cls_016">kasneb</span><span class="cls_004"> website.</span></div>
+<div style="position:absolute;left:300.64px;top:690.37px" class="cls_005"><span class="cls_005">Signature</span></div>
+<div style="position:absolute;left:131.75px;top:705.04px" class="cls_015"><span class="cls_015">PASTE YOUR</span></div>
+<div style="position:absolute;left:300.64px;top:712.19px" class="cls_005"><span class="cls_005">Identity card No.</span></div>
+<div style="position:absolute;left:142.34px;top:715.84px" class="cls_015"><span class="cls_015">COLOUR</span></div>
+<div style="position:absolute;left:125.07px;top:726.64px" class="cls_015"><span class="cls_015">PASSPORT SIZE</span></div>
+<div style="position:absolute;left:300.64px;top:734.01px" class="cls_005"><span class="cls_005">Date</span></div>
+<div style="position:absolute;left:128.41px;top:737.44px" class="cls_015"><span class="cls_015">PHOTOGRAPH</span></div>
+<div style="position:absolute;left:147.83px;top:748.24px" class="cls_015"><span class="cls_015">HERE</span></div>
+<div style="position:absolute;left:52.90px;top:787.42px" class="cls_017"><span class="cls_017">KASNEB Towers, Hospital Road, Upper Hill,   P.O. Box 41362 - 00100 Nairobi, Kenya Telephone: +254 020 4923000</span></div>
+<div style="position:absolute;left:30.00px;top:801.42px" class="cls_017"><span class="cls_017">Cellphone: +254 734600624 / +254 722201214 Fax: +254 020 2712915  Email: info@kasneb.or.ke  Website: </span><A HREF="http://www.kasneb.or.ke/">www.kasneb.or.ke</A> </div>
+</div>
+<div style="position:absolute;left:50%;margin-left:-297px;top:851px;width:595px;height:841px;border-style:outset;overflow:hidden">
+<div style="position:absolute;left:0px;top:0px">
+<img src="0253d3fa-fa50-11e9-9d71-0cc47a792c0a_id_0253d3fa-fa50-11e9-9d71-0cc47a792c0a_files/background2.jpg" width=595 height=841></div>
+<div style="position:absolute;left:36.00px;top:32.12px" class="cls_018"><span class="cls_018">NOTES</span></div>
+<div style="position:absolute;left:36.00px;top:48.12px" class="cls_019"><span class="cls_019">1.</span></div>
+<div style="position:absolute;left:54.00px;top:48.12px" class="cls_019"><span class="cls_019">Complete the form in CAPITAL LETTERS (in black or blue ink) together with the student identification</span></div>
+<div style="position:absolute;left:54.00px;top:64.12px" class="cls_019"><span class="cls_019">card form.</span></div>
+<div style="position:absolute;left:36.00px;top:80.12px" class="cls_019"><span class="cls_019">2.</span></div>
+<div style="position:absolute;left:54.00px;top:80.12px" class="cls_019"><span class="cls_019">(a) Print your names in full in the order on No. 1(a) of this form.</span></div>
+<div style="position:absolute;left:54.00px;top:96.12px" class="cls_019"><span class="cls_019">(b) Change of name must be supported by a legal document (such as Marriage certificate, Affidavit or</span></div>
+<div style="position:absolute;left:54.00px;top:112.12px" class="cls_019"><span class="cls_019">Deed poll).</span></div>
+<div style="position:absolute;left:36.00px;top:128.12px" class="cls_019"><span class="cls_019">3.</span></div>
+<div style="position:absolute;left:54.00px;top:128.12px" class="cls_019"><span class="cls_019">Indicate your Identity card/Passport No./Identity card waiting slip No. or Birth certificate No. (for those</span></div>
+<div style="position:absolute;left:54.00px;top:144.12px" class="cls_019"><span class="cls_019">under 18 years) on the space provided; enclose a passport size photograph, identification document and</span></div>
+<div style="position:absolute;left:54.00px;top:160.12px" class="cls_019"><span class="cls_019">CERTIFIED copies of your certificates. The documents must be certified by your employer/referee or by</span></div>
+<div style="position:absolute;left:54.00px;top:176.12px" class="cls_019"><span class="cls_019">any person specified here below:</span></div>
+<div style="position:absolute;left:55.00px;top:192.12px" class="cls_019"><span class="cls_019">•  Registrars of colleges, institutions or universities.</span></div>
+<div style="position:absolute;left:55.00px;top:207.12px" class="cls_019"><span class="cls_019">•  Graduates of </span><span class="cls_020">kasneb</span><span class="cls_019"> professional examinations (must quote their registration number).</span></div>
+<div style="position:absolute;left:55.00px;top:224.12px" class="cls_019"><span class="cls_019">•  A Senior Civil Servant (such as Education Officer, District Officer, Magistrate or an Officer of higher</span></div>
+<div style="position:absolute;left:68.00px;top:240.12px" class="cls_019"><span class="cls_019">ranking).</span></div>
+<div style="position:absolute;left:55.00px;top:256.12px" class="cls_019"><span class="cls_019">•  Religious leaders (such as Pastors, Priests, Kadhis, Imams).</span></div>
+<div style="position:absolute;left:55.00px;top:272.12px" class="cls_019"><span class="cls_019">•  Secondary School Principals.</span></div>
+<div style="position:absolute;left:55.00px;top:288.12px" class="cls_019"><span class="cls_019">•  The Clerk or Senior Officer of any Local Authority, or a Senior Officer in a State Corporation or</span></div>
+<div style="position:absolute;left:68.00px;top:304.12px" class="cls_019"><span class="cls_019">organisation.</span></div>
+<div style="position:absolute;left:55.00px;top:320.12px" class="cls_019"><span class="cls_019">•  In exceptional circumstances, Chiefs, Assistant Chiefs and Primary School Head Teachers.</span></div>
+<div style="position:absolute;left:54.00px;top:336.12px" class="cls_018"><span class="cls_018">All copies of certificates must be certified, signed and rubber stamped by the same person.</span></div>
+<div style="position:absolute;left:36.00px;top:352.12px" class="cls_019"><span class="cls_019">4.</span></div>
+<div style="position:absolute;left:54.00px;top:351.12px" class="cls_020"><span class="cls_020">kasneb</span><span class="cls_019"> reserves the right to confirm the certified copies of certificates.</span></div>
+<div style="position:absolute;left:36.00px;top:368.12px" class="cls_019"><span class="cls_019">5.</span></div>
+<div style="position:absolute;left:54.00px;top:368.12px" class="cls_019"><span class="cls_019">Students are advised to attend tuition in either accredited institutions or institutions in the process of</span></div>
+<div style="position:absolute;left:54.00px;top:383.12px" class="cls_019"><span class="cls_019">accreditation only. The list of accredited institutions is available on the </span><span class="cls_020">kasneb</span><span class="cls_019"> website.</span></div>
+<div style="position:absolute;left:36.00px;top:400.12px" class="cls_019"><span class="cls_019">6.</span></div>
+<div style="position:absolute;left:54.00px;top:400.12px" class="cls_019"><span class="cls_019">Please ensure that your application for registration form is duly completed before payment of fees.</span></div>
+<div style="position:absolute;left:36.00px;top:416.12px" class="cls_019"><span class="cls_019">7.  Any application for registration form which is incomplete or which is not accompanied by supporting</span></div>
+<div style="position:absolute;left:54.00px;top:432.12px" class="cls_019"><span class="cls_019">documents and the correct fee will be rejected.</span></div>
+<div style="position:absolute;left:36.00px;top:448.12px" class="cls_019"><span class="cls_019">8.  </span><span class="cls_018">Abbreviations</span></div>
+<div style="position:absolute;left:53.00px;top:464.12px" class="cls_019"><span class="cls_019">CPA</span></div>
+<div style="position:absolute;left:89.17px;top:464.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:464.12px" class="cls_019"><span class="cls_019">Certified Public Accountants</span></div>
+<div style="position:absolute;left:53.00px;top:480.12px" class="cls_019"><span class="cls_019">CS</span></div>
+<div style="position:absolute;left:89.17px;top:480.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:480.12px" class="cls_019"><span class="cls_019">Certified Secretaries</span></div>
+<div style="position:absolute;left:53.00px;top:496.12px" class="cls_019"><span class="cls_019">CICT</span></div>
+<div style="position:absolute;left:89.17px;top:496.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:496.12px" class="cls_019"><span class="cls_019">Certified Information Communication Technologists</span></div>
+<div style="position:absolute;left:53.00px;top:512.12px" class="cls_019"><span class="cls_019">CIFA</span></div>
+<div style="position:absolute;left:89.17px;top:512.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:512.12px" class="cls_019"><span class="cls_019">Certified Investment and Financial Analysts</span></div>
+<div style="position:absolute;left:53.00px;top:528.12px" class="cls_019"><span class="cls_019">CCP</span></div>
+<div style="position:absolute;left:89.17px;top:528.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:528.12px" class="cls_019"><span class="cls_019">Certified Credit Professionals</span></div>
+<div style="position:absolute;left:53.00px;top:544.12px" class="cls_019"><span class="cls_019">FAQ</span></div>
+<div style="position:absolute;left:89.17px;top:544.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:544.12px" class="cls_019"><span class="cls_019">Foreign Accountancy Qualifications</span></div>
+<div style="position:absolute;left:53.00px;top:560.12px" class="cls_019"><span class="cls_019">FSQ</span></div>
+<div style="position:absolute;left:89.17px;top:560.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:560.12px" class="cls_019"><span class="cls_019">Foreign Secretaries Qualifications</span></div>
+<div style="position:absolute;left:53.00px;top:576.12px" class="cls_019"><span class="cls_019">ATD</span></div>
+<div style="position:absolute;left:89.17px;top:576.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:576.12px" class="cls_019"><span class="cls_019">Accounting Technicians Diploma</span></div>
+<div style="position:absolute;left:53.00px;top:592.12px" class="cls_019"><span class="cls_019">DICT</span></div>
+<div style="position:absolute;left:89.17px;top:592.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:592.12px" class="cls_019"><span class="cls_019">Diploma in Information Communication Technology</span></div>
+<div style="position:absolute;left:53.00px;top:608.12px" class="cls_019"><span class="cls_019">DCM</span></div>
+<div style="position:absolute;left:89.17px;top:608.12px" class="cls_019"><span class="cls_019">-</span></div>
+<div style="position:absolute;left:108.00px;top:608.12px" class="cls_019"><span class="cls_019">Diploma in Credit Management</span></div>
+<div style="position:absolute;left:36.00px;top:640.12px" class="cls_019"><span class="cls_019">9.  </span><span class="cls_018">Registration deadlines</span></div>
+<div style="position:absolute;left:216.00px;top:656.12px" class="cls_018"><span class="cls_018">June examinations  December examinations</span></div>
+<div style="position:absolute;left:54.34px;top:672.12px" class="cls_019"><span class="cls_019">Normal registration</span></div>
+<div style="position:absolute;left:215.99px;top:672.12px" class="cls_019"><span class="cls_019">30 November</span></div>
+<div style="position:absolute;left:323.99px;top:672.12px" class="cls_019"><span class="cls_019">31 May</span></div>
+<div style="position:absolute;left:55.00px;top:688.12px" class="cls_019"><span class="cls_019">Late registration</span></div>
+<div style="position:absolute;left:216.00px;top:688.12px" class="cls_019"><span class="cls_019">15 February</span></div>
+<div style="position:absolute;left:324.00px;top:688.12px" class="cls_019"><span class="cls_019">15 August</span></div>
+<div style="position:absolute;left:36.00px;top:720.12px" class="cls_018"><span class="cls_018">STUDENT REGISTRATION FEES</span></div>
+<div style="position:absolute;left:136.61px;top:736.63px" class="cls_018"><span class="cls_018">Kenya Shillings</span></div>
+<div style="position:absolute;left:239.54px;top:736.63px" class="cls_018"><span class="cls_018">Foreign Currency</span></div>
+<div style="position:absolute;left:44.32px;top:752.97px" class="cls_018"><span class="cls_018">Examinations</span></div>
+<div style="position:absolute;left:169.01px;top:752.64px" class="cls_018"><span class="cls_018">Sh.</span></div>
+<div style="position:absolute;left:273.16px;top:752.64px" class="cls_018"><span class="cls_018">US $</span></div>
+<div style="position:absolute;left:135.67px;top:768.64px" class="cls_018"><span class="cls_018">Normal</span></div>
+<div style="position:absolute;left:204.86px;top:768.64px" class="cls_018"><span class="cls_018">Late</span></div>
+<div style="position:absolute;left:243.48px;top:768.64px" class="cls_018"><span class="cls_018">Normal</span></div>
+<div style="position:absolute;left:312.67px;top:768.64px" class="cls_018"><span class="cls_018">Late</span></div>
+<div style="position:absolute;left:40.50px;top:785.32px" class="cls_019"><span class="cls_019">Diploma and</span></div>
+<div style="position:absolute;left:40.50px;top:798.52px" class="cls_019"><span class="cls_019">Professional</span></div>
+<div style="position:absolute;left:146.04px;top:798.52px" class="cls_019"><span class="cls_019">5,000</span></div>
+<div style="position:absolute;left:199.95px;top:798.52px" class="cls_019"><span class="cls_019">7,250</span></div>
+<div style="position:absolute;left:269.15px;top:798.52px" class="cls_019"><span class="cls_019">83</span></div>
+<div style="position:absolute;left:316.94px;top:798.52px" class="cls_019"><span class="cls_019">125</span></div>
+<div style="position:absolute;left:36.00px;top:821.03px" class="cls_003"><span class="cls_003">Rev.1/2017</span></div>
+</div>
+
+</body>
+</html>
